@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace MinhaApp
+﻿namespace Calculadora
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
